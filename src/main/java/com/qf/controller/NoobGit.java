@@ -7,5 +7,6 @@ public class NoobGit {
 
     public static void main(String[] args) {
         System.out.println("'noobGitt");
+        System.out.println("success please");
     }
 }
